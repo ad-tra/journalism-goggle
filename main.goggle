@@ -3,6 +3,7 @@
 ! public: true
 ! author: Adam Trabelsi
 
+$discard
 
 $boost=3,site=dailystar.com.lb
 $boost=3,site=bostonglobe.com
